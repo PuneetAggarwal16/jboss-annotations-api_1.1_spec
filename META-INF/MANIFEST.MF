@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven Bundle Plugin
+Built-By: pgier
+Build-Jdk: 1.6.0_20
+Specification-Title: JSR 250: Common Annotations for the Java(TM) Plat
+ form
+Specification-Version: 1.1
+Specification-Vendor: Oracle
+Implementation-Title: Common Annotations 1.1 API
+Implementation-Version: 1.0.1.Final
+Implementation-Vendor-Id: org.jboss.spec.javax.annotation
+Implementation-Vendor: JBoss by Red Hat
+Build-Timestamp: Sat, 17 Mar 2012 12:35:25 -0500
+Implementation-URL: http://www.jboss.org/jboss-annotations-api_1.1_spec
+Java-Vendor: Sun Microsystems Inc.
+Java-Version: 1.6.0_20
+Os-Arch: i386
+Os-Name: Linux
+Os-Version: 3.2.7-1.fc16.i686.PAE
+Scm-Connection: scm:git:git@github.com:jboss/jboss-annotations-api_spe
+ c.git
+Scm-Revision: e7e0667f83a21722b3d443509d8bc7191079af50
+Scm-Url: https://github.com/jboss/jboss-annotations-api_spec
+Bnd-LastModified: 1332005727337
+Bundle-Description: JSR 250: Common Annotations for the Java(TM) Platf
+ orm
+Bundle-DocURL: http://www.jboss.org
+Bundle-License: https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Common Annotations 1.1 API
+Bundle-SymbolicName: org.jboss.spec.javax.annotation.jboss-annotations
+ -api_1.1_spec
+Bundle-Vendor: JBoss by Red Hat
+Bundle-Version: 1.0.1.Final
+Export-Package: javax.annotation;version="1.1",javax.annotation.securi
+ ty;version="1.1",javax.annotation.sql;version="1.1"
+Tool: Bnd-1.50.0
+
